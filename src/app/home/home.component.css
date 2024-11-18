@@ -1,0 +1,68 @@
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .banner {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    margin-bottom: 20px;
+  }
+  
+  .banner h1 {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .category {
+    width: 30%;
+    margin-bottom: 20px;
+  }
+  
+  .category h2 {
+    font-size: 1.5em;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  .items {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .item {
+    width: 45%;
+    margin: 5%;
+    text-align: center;
+  }
+  
+  .item img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .contact-info h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info p {
+    font-size: 1em;
+    margin: 5px 0;
+  }
+  
